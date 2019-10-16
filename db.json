@@ -1,12 +1,12 @@
 {
   "physicians": { 
-    "fisios": [
+    "page": 1,
+    "count": 3,
+    "physicians": [
       { "id": 1, "name": "P1" },
       { "id": 2, "name": "P2" },
       { "id": 3, "name": "P3" }
     ],
-    "page": 1,
-    "count": 3
   },
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
