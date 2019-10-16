@@ -5,5 +5,9 @@
   ],
   "profile": {
     "name": "typicode"
+  },
+  "fisios": {
+    "physicians": [
+    ]
   }
 }
