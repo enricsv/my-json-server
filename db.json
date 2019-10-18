@@ -15,5 +15,10 @@
     { "id": 1, "name": "Organització 1" },
     { "id": 2, "name": "Organització 2" },
     { "id": 3, "name": "Organització 3" }
-    ]
+    ],
+  "patients": [
+      { "id": 1, "name": "Pacient 1" },
+      { "id": 2, "name": "Pacient 2" },
+      { "id": 3, "name": "Pacient 3" }
+    ],
 }
